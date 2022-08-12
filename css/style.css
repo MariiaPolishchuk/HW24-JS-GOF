@@ -1,0 +1,18 @@
+.input-window {
+    color: white;
+    max-width: 800px;
+    margin: 50px auto;
+  }
+  
+  .message {
+    padding:20px 25px;
+    background:#FFFFFF;
+    border-radius:25px;
+    color: black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+
+  p {
+    text-align: center;
+  }
+  
